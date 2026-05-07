@@ -4,25 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "addd4e927f2d9573",
+        "id": "3f84ec064d8c36cf",
         "type": "tabs",
         "children": [
           {
-            "id": "d740ea4b08a8838d",
+            "id": "5e357e2790c1c41c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mycology and Networks/Comparison to Mesh Networking.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comparison to Mesh Networking"
+              "title": "README"
             }
           },
           {
-            "id": "8cbe651c61495764",
+            "id": "a0c0c36985c3d6ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gemini-scribe/Agent-Sessions/2026-05-06 Mycology and Network Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-06 Mycology and Network Architecture"
+            }
+          },
+          {
+            "id": "876e8be52585cdc7",
             "type": "leaf",
             "state": {
               "type": "gemini-agent-view",
@@ -32,21 +46,21 @@
             }
           },
           {
-            "id": "26ed9dba06662dd3",
+            "id": "0172079af7b06489",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Voice Recorder Node.md",
+                "file": "Prompt for the next session.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI Voice Recorder Node"
+              "title": "Prompt for the next session"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "35406aba98b50ba2",
@@ -137,6 +151,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "gemini-scribe/Agent-Sessions/2026-05-06 Mycology and Network Architecture.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -198,23 +213,28 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "26ed9dba06662dd3",
+  "active": "0172079af7b06489",
   "lastOpenFiles": [
-    "Milk-V Duo 256M.md",
+    "Prompt for the next session.md",
+    "Product Ideas",
+    "gemini-scribe/Agent-Sessions/Agent Session 2026-05-07.md",
+    "gemini-scribe/Agent-Sessions/2026-05-06 Mesh Network Research and Strategy.md",
+    "Mesh Networking.md",
     "AI Voice Recorder Node.md",
+    "Mesh Networking/Mesh Networks Overview.md",
+    "Mycology and Networks/Fungi as Biological Networks.md",
+    "Mycology and Networks/Mycelial Network Architecture.md",
+    "Mesh Networking/Saito Consensus.md",
+    "README.md",
     "Mycology and Networks/Comparison to Mesh Networking.md",
+    "Milk-V Duo 256M.md",
     "Mesh Networking/Pest Detection Camera Node.md",
     "Mesh Networking/Soil Moisture Sensor Node.md",
     "gemini-scribe/Agent-Sessions/2026-05-07 Agri-Tech Mesh Network Development.md",
-    "Mycology and Networks/Fungi as Biological Networks.md",
-    "Mycology and Networks/Mycelial Network Architecture.md",
     "Mycology and Networks.md",
     "Mycology and Networks",
     "gemini-scribe/Agent-Sessions/2026-05-06 Mycology and Network Architecture.md",
     "Mesh Networking/Reticulum.md",
-    "Mesh Networking/Saito Consensus.md",
-    "gemini-scribe/Agent-Sessions/2026-05-06 Mesh Network Research and Strategy.md",
-    "Mesh Networking/Mesh Networks Overview.md",
     "Mesh Networking/Meshtastic.md",
     "Mesh Networking/MeshCore.md",
     "Mesh Networking/Building Low-Cost LoRa Radios.md",
@@ -226,7 +246,6 @@
     "gemini-scribe/Skills",
     "gemini-scribe/Prompts",
     "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
-    "gemini-scribe"
+    "gemini-scribe/Agent-Sessions"
   ]
 }

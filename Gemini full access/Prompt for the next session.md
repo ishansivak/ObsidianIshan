@@ -1,0 +1,2 @@
+1. Make several notes about 2 products. One is an LLM open marketplace where people can ask and bid for a particular LLM at a particular speed with particular latency. The second one is a torrent client where people can request seeders for specific files by putting up bounties.
+2. 

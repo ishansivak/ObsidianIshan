@@ -21,3 +21,18 @@ A portable voice recording device built on the [[Milk-V Duo 256M]] platform, des
 See also:
 - [[Soil Moisture Sensor Node]]
 - [[Pest Detection Camera Node]]
+
+## Recommended Open Source Libraries for Development
+To build the voice recorder on the Milk-V Duo 256M running Linux, you can leverage the following libraries:
+
+### Audio Capture & Processing
+- **ALSA (Advanced Linux Sound Architecture)**: The foundational layer for audio device drivers and capture on Linux.
+- **PortAudio**: A portable C/C++ library for cross-platform audio I/O; excellent for simplifying ALSA interaction.
+- **SoX (Sound eXchange)**: A versatile command-line utility and library for audio file format conversion and processing.
+
+### Audio Chunking & Management
+- **FFmpeg (libav)**: The industry standard for handling audio/video streams. Use `libavformat` and `libavcodec` to encode raw PCM data into compressed formats (like Opus or AAC) efficiently in 15/30-minute chunks.
+
+### LLM Interface (Host-Side)
+- **Whisper.cpp**: A high-performance C++ port of OpenAI's Whisper model, perfect for running speech-to-text inference on the host computer or even on-device if performance permits.
+- **Ollama**: A local LLM runner for the host computer to process the transcribed text into summaries or actionable data.
