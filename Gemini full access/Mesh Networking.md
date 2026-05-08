@@ -1,11 +1,20 @@
-# Mesh Networking
+# Mesh Networks
 
-This note serves as the central hub for [[Mesh Networks Overview]], covering protocols, hardware, and infrastructure for decentralized communication.
+This note serves as a central hub for all research, projects, and theoretical frameworks related to mesh networking in this vault.
 
-## Related Projects
-- [[AI Voice Recorder Node]]
-- [[Soil Moisture Sensor Node]]
-- [[Pest Detection Camera Node]]
+## Active Projects
+- [[Meshtastic]]
+- [[Building Low-Cost LoRa Radios]]
+- [[MeshCore]]
+- [[Reticulum]]
 
-## Theoretical Connections
-- [[Mycology and Networks]]
+## Concepts
+- [[Saito Consensus]]
+- [[Mesh Networks Overview]]
+
+## Related Fields
+- [[Mycology and Networks]] (Biological parallels to mesh architectures)
+
+## Implementation Ideas
+- [[LLM Open Marketplace]]
+- [[Bounty-Based Torrent Client]]

@@ -1,17 +1,17 @@
 # Implementation: LLM Open Marketplace
 
 ## Overview
-A decentralized marketplace for LLM inference where providers bid on performance-based service level agreements (SLAs).
+A decentralized marketplace for LLM inference where providers bid on performance-based service level agreements (SLAs), powered by the Saito network.
 
 ## Technical Stack
-- **Inference Engine**: Leverage [[Ollama]] for local model serving or **Petals** for distributed inference.
-- **Smart Contracts**: Use **Solana** or **Ethereum L2 (Arbitrum/Optimism)** for low-cost escrow and bounty settlement.
-- **Frontend**: **Next.js** dashboard for users to post requests (model, tokens/sec, latency) and providers to manage bids.
-- **Performance Verification**: Implement a "Proof-of-Inference" protocol. Randomly sample outputs for verification by a secondary, high-trust node to ensure compliance with speed/latency SLAs.
+- **Inference Engine**: Leverage [[Ollama]] for local model serving.
+- **Incentive/Routing Layer**: [[Saito Consensus]]. Instead of external smart contracts, inference requests are processed as transactions. The payment for the inference is routed through the network, rewarding the nodes that route the data and the inference provider.
+- **Frontend**: **Next.js** dashboard for users to post requests (model, tokens/sec, latency).
+- **Performance Verification**: Proof-of-Work/Proof-of-Routing. The network naturally incentivizes the node that provides the fastest results because it becomes the preferred route for that data.
 
 ## Key Challenges
-- Incentivizing honesty in performance reporting.
-- Reducing latency overhead in the verification layer.
+- Mapping inference requests to Saito's routing model.
+- Ensuring the inference provider is compensated directly via the transaction flow.
 
 ## Related Concept
 - [[LLM Open Marketplace]]

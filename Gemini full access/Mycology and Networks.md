@@ -3,7 +3,7 @@
 This note explores the intersection of fungal networks (mycelium) and artificial communication networks (like LoRa, [[Mesh Networking]], and [[MeshCore]]).
 
 ## Core Concepts
-- **Biomimicry**: Using the decentralized, resilient structure of mycelial networks as a blueprint for designing robust [[Mesh Networks]].
+- **Biomimicry**: Using the decentralized, resilient structure of mycelial networks as a blueprint for designing robust [[Mesh Networking]].
 - **Myco-IoT**: Integrating sensors into fungal growth environments to monitor health, humidity, and nutrient levels, feeding data back into the [[Mesh Networking]] infrastructure.
 - **Resilience**: Studying how fungal networks handle node failure and environmental stress to improve the fault-tolerance of digital mesh nodes.
 
