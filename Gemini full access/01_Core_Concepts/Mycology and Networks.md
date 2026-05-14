@@ -1,3 +1,9 @@
+---
+tags:
+  - biology
+  - mesh
+  - networks
+---
 # Mycology and Networks
 
 This note explores the intersection of fungal networks (mycelium) and artificial communication networks (like LoRa, [[Mesh Networking]], and [[MeshCore]]).

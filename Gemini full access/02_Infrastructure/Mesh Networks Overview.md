@@ -1,3 +1,10 @@
+---
+tags:
+  - mesh
+  - infrastructure
+  - saito
+  - networking
+---
 # Mesh Networking & Decentralized Infrastructure
 
 This section organizes the research on various mesh protocols and supporting technologies.

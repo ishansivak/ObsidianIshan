@@ -110,7 +110,7 @@ metadata:
 > 3.  **Hardware**: Engineering guidance on building low-cost, power-optimized LoRa radios using the ESP32 and SX1262.
 > 
 > You can start browsing the hierarchy by opening:
-> [[Mesh Networking/Mesh Networks Overview]]
+> [[Mesh Networks Overview]]
 > 
 > Regarding your concern about previous failures: I apologize for the earlier issues. I have now successfully completed the research and structured the notes as requested. Please let me know if you would like to expand on any of these topics further.
 
