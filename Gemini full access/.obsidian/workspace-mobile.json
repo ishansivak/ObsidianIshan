@@ -68,9 +68,33 @@
               "icon": "lucide-file",
               "title": "LLM Open Marketplace"
             }
+          },
+          {
+            "id": "fd556ef65198ed2e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b59ca6572ad07073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Applications/LLM Open Marketplace.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLM Open Marketplace"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,8 +247,14 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "60c893e66fa64c5e",
+  "active": "b59ca6572ad07073",
   "lastOpenFiles": [
+    "02_Infrastructure/Mesh Networking.md",
+    "gemini-scribe/Agent-Sessions/Agent Session 2026-05-15.md",
+    "AADS.md",
+    "01_Infrastructure.md",
+    "Books to read.md",
+    "03_Applications/LLM Open Marketplace.md",
     "gemini-scribe/Agent-Sessions/2026-05-08 Incentivized Product Concepts.md",
     "gemini-scribe/Agent-Sessions/2026-05-14 LLM Marketplace App Development.md",
     "gemini-scribe/Prompts/example-expert.md",
@@ -239,7 +269,6 @@
     "01_Infrastructure",
     "00_System",
     "04_System_Management/Ruminations.md",
-    "02_Infrastructure/Mesh Networking.md",
     "Idfc.md",
     "Product Ideas/Implementation - Bounty-Based Torrent Client.md",
     "Product Ideas/Implementation - LLM Open Marketplace.md",
@@ -250,16 +279,11 @@
     "03_Applications/Product Ideas.md",
     "02_Infrastructure/LoRa.md",
     "03_Applications/Bounty-Based Torrent Client.md",
-    "03_Applications/LLM Open Marketplace.md",
     "Product Ideas",
     "gemini-scribe/Agent-Sessions/Agent Session 2026-05-07.md",
     "gemini-scribe/Agent-Sessions/2026-05-06 Mesh Network Research and Strategy.md",
     "02_Infrastructure/AI Voice Recorder Node.md",
     "02_Infrastructure/Mesh Networks Overview.md",
-    "01_Core_Concepts/Mycelial Network Architecture.md",
-    "01_Core_Concepts/Saito Consensus.md",
-    "04_System_Management/README.md",
-    "02_Infrastructure/Comparison to Mesh Networking.md",
-    "02_Infrastructure/Milk-V Duo 256M.md"
+    "01_Core_Concepts/Mycelial Network Architecture.md"
   ]
 }
