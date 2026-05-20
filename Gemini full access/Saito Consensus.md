@@ -7,4 +7,4 @@ Analysis of proof-of-transaction consensus mechanisms.
 - **Scalability**: Decoupling transaction processing from block validation.
 
 ## Integration
-The Saito consensus provides the finality layer for the [[Research/UPI-Saito Settlement Layer|UPI-Saito Settlement Layer]].
+The Saito consensus provides the finality layer for the [[UPI-Saito Settlement Layer|UPI-Saito Settlement Layer]].

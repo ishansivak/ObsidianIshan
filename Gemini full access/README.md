@@ -1,16 +1,10 @@
-# Vault Overview
+# Vault Index
 
-Technical documentation and research for the UPI-Saito settlement layer and associated network architectures.
-
-## Core Documentation
-- [[Documentation/System Architecture]]
-- [[Documentation/Monitoring]]
+## Core Protocol
+- [[Protocol Operations]]
 
 ## Research
-- [[Research/Research Index]]
-
-## Operations
-- [[How to Export Google AI Studio Data]]
-
-## Meta
-- [[Reflections/Reflections on Interactions]]
+- [[Research Index]]
+- [[Mycelial Network Systems]]
+- [[Saito Consensus]]
+- [[UPI-Saito Settlement Layer]]
