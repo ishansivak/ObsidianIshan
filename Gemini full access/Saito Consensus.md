@@ -1,10 +1,9 @@
-# Saito Consensus
-Analysis of proof-of-transaction consensus mechanisms.
+# Saito Consensus (Simplified)
 
 ## Core Concepts
-- **Proof-of-Transaction**: Nodes are rewarded for facilitating transactions, not just hashing.
-- **Economic Security**: Long-term network security incentivized by transaction volume and routing proof.
-- **Scalability**: Decoupling transaction processing from block validation.
+- **Proof-of-Transaction**: Rewards for transaction facilitation, not just hashing.
+- **Economic Security**: Security driven by volume and routing proofs.
+- **Scalability**: Decoupling transaction processing from validation.
 
 ## Integration
-The Saito consensus provides the finality layer for the [[UPI-Saito Settlement Layer|UPI-Saito Settlement Layer]].
+Finality layer for [[UPI-Saito Settlement Layer]].
