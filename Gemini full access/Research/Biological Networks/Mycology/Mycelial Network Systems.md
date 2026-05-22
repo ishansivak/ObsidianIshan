@@ -17,3 +17,7 @@ Fungal networks demonstrate decentralized resource allocation through dynamic, d
 - **Adaptive Topology**: Growth patterns based on traffic density and demand.
 
 By applying mycelial growth patterns to mesh routing protocols, we can develop networks that adapt more efficiently to fluctuating node availability and demand.
+
+---
+### Links
+- See also: [[Biological Index]], [[Protocol Index]]

@@ -1,10 +1,12 @@
 # Research Index
 
-This note centralizes the research and technical frameworks developed in this vault.
+Centralized repository of all technical research, biological models, and operational documentation.
 
-## Biological & Mesh Synthesis
-- [[Mycelial Network Systems|Mycelial Network Systems]]: Synthesis of fungal biological models and digital mesh network topologies.
+## [[Biological Index]]
+- Research on decentralized biological networks and their application to digital systems.
 
-## Technical Implementations
-- [[Saito Consensus|Saito Consensus]]: Analysis of proof-of-transaction consensus mechanisms.
-- [[UPI-Saito Settlement Layer|UPI-Saito Settlement Layer]]: Design of the settlement layer connecting UPI to decentralized networks.
+## [[Protocol Index]]
+- Technical frameworks for consensus, settlement, and protocol operations.
+
+## [[Infrastructure Index]]
+- Hardware design and edge integration documentation.

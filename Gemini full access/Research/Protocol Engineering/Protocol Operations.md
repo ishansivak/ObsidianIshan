@@ -34,3 +34,7 @@ Escrow-less fiat-to-digital settlement via UPI-verified Saito routing work.
     - Verify NPCI connectivity.
     - Check `RoutingProof` broadcast status on the Saito explorer.
     - Monitor for network forks if consensus stalls.
+
+---
+### Links
+- See also: [[Biological Index]], [[Protocol Index]]
