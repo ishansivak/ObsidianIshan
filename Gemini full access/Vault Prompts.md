@@ -30,3 +30,12 @@ To ensure the graph view is beautiful, elegant, and navigable:
 - Avoid "super-nodes" that connect to everything; distribute links logically.
 - Use consistent cross-linking between domains (`Biological`, `Protocol`, `Infrastructure`) to create a balanced, symmetric graph.
 - Keep the graph clear of "orphans" and "dead ends" by ensuring every note has a path back to an index.
+
+### Maintenance Logging
+Every maintenance run must be documented in a new file within `Edit Explanations/`. The agent must explicitly state:
+1. What was changed (notes, structures, links).
+2. The specific reasoning for those changes, referencing the `Vault Cleanup Plan` and `Vault Introspection Protocol`.
+3. Any visualization tools (like Kanban boards) created or updated during the run.
+
+### Visualization Mandate
+If the graph view is cluttered, the agent must create Kanban boards or other visualization tools to offload complexity from the core graph.

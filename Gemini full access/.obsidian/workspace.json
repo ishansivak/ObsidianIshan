@@ -223,6 +223,8 @@
   },
   "active": "e3caf6c9facee503",
   "lastOpenFiles": [
+    "ULTRAoverhaul.md",
+    "Token Usage Monitoring.md",
     "tempTrash",
     "Vault Prompts.md",
     "Edit Explanations/Maintenance Run Report 2026-05-23.md",
@@ -256,8 +258,6 @@
     "Untitled Kanban.md",
     "Research/Protocol Engineering/Consensus Mechanisms/Saito Consensus.md",
     "Research/Hardware Infrastructure/Sensors/Soil Moisture Sensor Node.md",
-    "Research/Protocol Engineering/Protocol Operations.md",
-    "gemini-scribe/Agent-Sessions/2026-05-23 Note Cleanup and Maintenance.md",
-    "gemini-scribe/Scheduled-Tasks/Runs"
+    "Research/Protocol Engineering/Protocol Operations.md"
   ]
 }
