@@ -221,8 +221,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "d60298b98974c967",
+  "active": "e3caf6c9facee503",
   "lastOpenFiles": [
+    "tempTrash",
     "Vault Prompts.md",
     "Edit Explanations/Maintenance Run Report 2026-05-23.md",
     "Vault Introspection Protocol.md",
@@ -257,7 +258,6 @@
     "Research/Hardware Infrastructure/Sensors/Soil Moisture Sensor Node.md",
     "Research/Protocol Engineering/Protocol Operations.md",
     "gemini-scribe/Agent-Sessions/2026-05-23 Note Cleanup and Maintenance.md",
-    "Programmable Routing Architecture.md",
     "gemini-scribe/Scheduled-Tasks/Runs"
   ]
 }
