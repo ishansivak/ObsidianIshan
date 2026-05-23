@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f84ec064d8c36cf",
+        "id": "704611683533f72a",
         "type": "tabs",
         "children": [
           {
-            "id": "b298ca6b20dad5f7",
+            "id": "9d5187d5521c268b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9a68b85aeb31f8dd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,21 +28,7 @@
             }
           },
           {
-            "id": "09b63d67ead20f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mycology and Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mycology and Networks"
-            }
-          },
-          {
-            "id": "254b3a4c5663e05a",
+            "id": "062a4859cdee9462",
             "type": "leaf",
             "state": {
               "type": "gemini-agent-view",
@@ -40,99 +36,9 @@
               "icon": "sparkles",
               "title": "Agent Mode"
             }
-          },
-          {
-            "id": "a75db793f4410c18",
-            "type": "leaf",
-            "state": {
-              "type": "gemini-diff-view",
-              "state": {},
-              "icon": "file-diff",
-              "title": "Diff View"
-            }
-          },
-          {
-            "id": "4ccb40fcd4aa2b4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Core_Concepts/Fungi as Biological Networks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fungi as Biological Networks"
-            }
-          },
-          {
-            "id": "60c893e66fa64c5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Applications/LLM Open Marketplace.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLM Open Marketplace"
-            }
-          },
-          {
-            "id": "fd556ef65198ed2e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "b59ca6572ad07073",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Applications/LLM Open Marketplace.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLM Open Marketplace"
-            }
-          },
-          {
-            "id": "73bad583ba828b12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "05c6727239530055",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM market place system prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LLM market place system prompt"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -285,8 +191,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "05c6727239530055",
+  "active": "062a4859cdee9462",
   "lastOpenFiles": [
+    "Agri-Tech Mesh Network.md",
+    "gemini-scribe/Agent-Sessions/2026-05-23 Vault Cleanup- Empty Note Audit.md",
+    "03_Applications.md",
     "LLM market place system prompt.md",
     "agent notes",
     "agent-optimization-protocol.md",
@@ -315,9 +224,6 @@
     "Reflections",
     "Documentation",
     "README.md",
-    "Monitoring.md",
-    "gemini-scribe/Agent-Sessions/2026-05-20 Vault Monitoring Restructuring.md",
-    "System Architecture.md",
     "Design Documents/UPI-Saito Settlement Layer",
     "Design Documents",
     "05_Architecture_and_Strategy",
