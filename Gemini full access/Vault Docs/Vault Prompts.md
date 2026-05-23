@@ -39,3 +39,8 @@ Every maintenance run must be documented in a new file within `Edit Explanations
 
 ### Visualization Mandate
 If the graph view is cluttered, the agent must create Kanban boards or other visualization tools to offload complexity from the core graph.
+
+## Graph Aesthetic & Readability Protocol (Added 2026-05-23)
+- **Star-Topology Enforcement**: Indices are the only primary anchors. All notes must link back to their parent index to prevent visual clutter.
+- **Traversal Logic**: If the graph looks like a "pile of shit," traverse the links. If nodes are confusingly connected, break the link and re-anchor to the appropriate Index.
+- **Redundancy Audit**: If information is redundant, merge it. If a note is empty, fill it or delete it.

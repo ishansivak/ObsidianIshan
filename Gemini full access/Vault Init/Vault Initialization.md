@@ -25,3 +25,15 @@ This folder contains the core files required for an agent to boot up and underst
     2. "You didn't make the necessary adjustments yet. do more. more context more structure. less redundant crap. more logic. better links. less dead links. more navigable in the graph view. go go go. think for a long time before taking actions. but take lots of action. also make sure that the readme keeps in store a bunch of context about the vault, including this exact prompt for future use. Append more strict alternatives to this prompt in the readme so users can make sure you actually go back and read every. single. note. now get started. dont be lazy. take your time. think. then act ruthlessly and cunningly. be like water. let the concepts and structures flow naturally as opposed to artificial knowledge structures."
     3. "When modifying this vault, you must act with extreme respect for existing data. Before adding, deleting, or restructuring, you must read all affected notes to understand their nuance. Do not delete or add stuff before thinking long and hard. Act ruthlessly against redundancy, but with surgical precision to preserve the underlying intellectual capital."
     4. **Traversal Logic**: If you are confused by the structure, traverse the links to understand the notes. If the graph still appears cluttered or illogical, change the structure immediately to improve clarity. "Be like water."
+
+## Visualization Integration
+- Agents must consult [[Visualization Engine Protocol]] during the startup and maintenance loops.
+- All new visualizations must be documented in the [[Edit Explanations/Maintenance Run Report 2026-05-23.md]].
+
+## Graph Readability & Aesthetic Optimization
+- **Star-Topology Hubs**: The primary indices (`[[Biological Index]]`, `[[Protocol Index]]`, `[[Infrastructure Index]]`) must act as clean, logical anchors. All notes should link to their parent index and at least one cross-domain index.
+- **Visual Clutter Reduction**: If a cluster becomes too dense, the agent MUST split the cluster by creating a sub-index or a bridge note.
+- **Aesthetic Priority**: The graph should appear symmetric and balanced. If it looks like a "pile of shit", the structural hierarchy is failing and must be re-balanced immediately.
+
+- **Graph & Cleanup**: Every boot, the agent MUST run the `[[Vault Docs/Cleanup.md]]` protocol to ensure no empty notes exist and the graph remains aesthetic (star-topology). 
+- **Traversal**: If the graph is cluttered, traverse links and refactor indices.

@@ -12,3 +12,8 @@ This document outlines the systematic approach for maintaining and optimizing th
 - [ ] Conduct a full audit of all notes for 200-word context compliance.
 - [ ] Verify bidirectional link integrity across all indices.
 - [ ] Refine graph aesthetics by standardizing nomenclature in note titles and index structure.
+
+## Graph Aesthetic & Readability Protocol (Added 2026-05-23)
+- **Star-Topology Enforcement**: Indices are the only primary anchors. All notes must link back to their parent index to prevent visual clutter.
+- **Traversal Logic**: If the graph looks like a "pile of shit," traverse the links. If nodes are confusingly connected, break the link and re-anchor to the appropriate Index.
+- **Redundancy Audit**: If information is redundant, merge it. If a note is empty, fill it or delete it.
