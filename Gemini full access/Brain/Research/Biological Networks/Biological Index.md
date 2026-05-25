@@ -11,3 +11,4 @@ These biological models serve as the inspiration for the self-healing and adapti
 ## Related Domains
 - [[Protocol Index]]: Digital implementation of decentralized networks.
 - [[Infrastructure Index]]: Physical hardware deployment for network sensing.
+- [[Fungi and Mycelial Network Systems]]
