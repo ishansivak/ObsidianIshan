@@ -31,7 +31,8 @@
               "title": "Saito Consensus and Operations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,8 +222,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "e3caf6c9facee503",
+  "active": "8e7d9b1a731ab8af",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "gemini-scribe/Agent-Sessions/2026-05-23 Vault Initialization and Audit.md",
+    "Fungi as Biological Networks.md",
     "gemini-scribe/Prompts/example-expert.md",
     "README.md",
     "StartingPoint.md",
@@ -247,9 +251,6 @@
     "Brain/Research/Protocol Engineering/Protocol Index.md",
     "Brain/Research/Protocol Engineering/Consensus Mechanisms/Saito Consensus.md",
     "Brain/Research/Hardware Infrastructure/Infrastructure Index.md",
-    "Brain/Research/Hardware Infrastructure/Sensors/Soil Moisture Sensor Node.md",
-    "Brain/Research/Biological Networks/Biological Index.md",
-    "Brain/Research/Biological Networks/Mycology/Mycelial Network Systems.md",
     "Vault Docs",
     "Brain",
     "tempTrash",
