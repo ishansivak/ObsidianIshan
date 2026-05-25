@@ -1,11 +1,10 @@
 {
   "provider": "gemini",
   "ollamaBaseUrl": "http://localhost:11434",
-  "customBaseUrl": "",
-  "apiKeySecretName": "goooo",
-  "chatModelName": "gemini-flash-lite-latest",
-  "summaryModelName": "gemini-flash-lite-latest",
-  "completionsModelName": "gemini-flash-lite-latest",
+  "apiKeySecretName": "seanishans",
+  "chatModelName": "gemini-3.5-flash",
+  "summaryModelName": "gemini-3.5-flash",
+  "completionsModelName": "gemini-3.5-flash",
   "imageModelName": "gemini-3.1-flash-image-preview",
   "summaryFrontmatterKey": "summary",
   "userName": "Ishan",
@@ -28,7 +27,7 @@
     "activePreset": "cautious",
     "toolPermissions": {}
   },
-  "lastSeenVersion": "4.9.1",
+  "lastSeenVersion": "4.8.0",
   "ragIndexing": {
     "enabled": false,
     "fileSearchStoreName": null,
@@ -43,8 +42,6 @@
   "alwaysShowDiffView": true,
   "logToolExecution": true,
   "autoRunCatchUp": true,
-  "hooksEnabled": false,
-  "expandedSettingsSections": [],
   "remoteModelCache": {
     "models": [
       {
