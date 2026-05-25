@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault Init/STARTUP.md",
+                "file": "Vault Docs/Cleanup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STARTUP"
+              "title": "Cleanup"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vault Init/STARTUP.md",
+                "file": "Vault Docs/Cleanup.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of STARTUP"
+              "title": "Outline of Cleanup"
             }
           },
           {
@@ -225,16 +225,25 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "a47b2c12273df121",
+  "active": "d60298b98974c967",
   "lastOpenFiles": [
+    "Brain/Research/Protocol Engineering/UPI-Saito Settlement Layer.md",
+    "Brain/Research/Protocol Engineering/Protocol Operations.md",
+    "Brain/Research/Protocol Engineering/Protocol Index.md",
+    "Brain/Research/Protocol Engineering/Consensus Mechanisms/Saito Consensus.md",
+    "Brain/Research/Hardware Infrastructure/Infrastructure Index.md",
+    "Brain/Research/Hardware Infrastructure/Sensors/Soil Moisture Sensor Node.md",
+    "Brain/Research/Biological Networks/Biological Index.md",
+    "Brain/Research/Biological Networks/Mycology/Mycelial Network Systems.md",
+    "Brain/Research/Biological Networks/Mycology/Fungi as Biological Networks.md",
+    "Vault Init/Startup Notes.md",
+    "Vault Init/STARTUP.md",
     "Vault Init/Vault Initialization.md",
     "Vault Docs/Cleanup.md",
     "Vault Docs/Visualization Engine Protocol.md",
     "Vault Docs",
     "Brain",
     "Vault Docs/Final Overhaul Plan.md",
-    "Vault Init/Startup Notes.md",
-    "Vault Init/STARTUP.md",
     "Vault Docs/ULTRAoverhaul.md",
     "Token Usage Monitoring.md",
     "tempTrash",
@@ -246,11 +255,6 @@
     "Vault Init",
     "Vault Docs/README.md",
     "Vault Docs/Vault Cleanup Plan.md",
-    "Brain/Research/Biological Networks/Mycology/Mycelial Network Systems.md",
-    "Brain/Research/Protocol Engineering/Protocol Index.md",
-    "Brain/Research/Biological Networks/Biological Index.md",
-    "Brain/Research/Hardware Infrastructure/Infrastructure Index.md",
-    "Brain/Research/Biological Networks/Mycology/Fungi as Biological Networks.md",
     "gemini-scribe/Agent-Sessions/2026-05-14 LLM Marketplace App Development.md",
     "Brain/Research/Hardware Infrastructure/Sensors",
     "Brain/Research/Protocol Engineering/Consensus Mechanisms",
@@ -258,10 +262,6 @@
     "Brain/Research/Hardware Infrastructure",
     "gemini-scribe/Agent-Sessions/2026-05-08 Incentivized Product Concepts.md",
     "gemini-scribe/Agent-Sessions/2026-05-07 Agri-Tech Mesh Network Development.md",
-    "Brain/Research/Protocol Engineering",
-    "gemini-scribe/Agent-Sessions/2026-05-06 Mycology and Network Architecture.md",
-    "gemini-scribe/Agent-Sessions/2026-05-06 Mesh Network Research and Strategy.md",
-    "gemini-scribe/Prompts/example-expert.md",
-    "Vault Docs/Research Index.md"
+    "Brain/Research/Protocol Engineering"
   ]
 }
