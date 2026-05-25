@@ -11,14 +11,10 @@
             "id": "bb135db8d18d5b7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Brain/Research/Hardware Infrastructure/Soil Moisture Sensor Node.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soil Moisture Sensor Node"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -227,22 +223,24 @@
   },
   "active": "e3caf6c9facee503",
   "lastOpenFiles": [
+    "gemini-scribe/Prompts/example-expert.md",
+    "README.md",
+    "StartingPoint.md",
+    "Vault Initialization.md",
+    "Research.md",
+    "Brain/Research/Biological Networks/Fungi and Mycelial Network Systems.md",
     "Brain/Research/Protocol Engineering/Saito Consensus and Operations.md",
+    "Programmable Routing Architecture.md",
     "Brain/Research/Hardware Infrastructure/Soil Moisture Sensor Node.md",
     "Brain/Research/Research Index.md",
-    "README.md",
     "agentTakeaways.md",
-    "Research.md",
     "Cleanup.md",
-    "Vault Initialization.md",
     "Governance/Vault Governance.md",
     "Governance",
-    "StartingPoint.md",
     "Gemini access key.md",
     "gemini-scribe/Agent-Sessions/2026-05-26 Vault Cleanup and Initialization.md",
     "Vault Docs/Cleanup.md",
     "gemini-scribe/Agent-Sessions/2026-05-23 Vault Cleanup- Empty Note Audit.md",
-    "Brain/Research/Biological Networks/Fungi and Mycelial Network Systems.md",
     "Governance/Agent Pep Talk.md",
     "Brain/Research/Protocol Engineering/UPI-Saito Settlement Layer.md",
     "Brain/Research/Protocol Engineering/Protocol Operations.md",
@@ -252,8 +250,6 @@
     "Brain/Research/Hardware Infrastructure/Sensors/Soil Moisture Sensor Node.md",
     "Brain/Research/Biological Networks/Biological Index.md",
     "Brain/Research/Biological Networks/Mycology/Mycelial Network Systems.md",
-    "Brain/Research/Biological Networks/Mycology/Fungi as Biological Networks.md",
-    "Vault Init/Startup Notes.md",
     "Vault Docs",
     "Brain",
     "tempTrash",
