@@ -11,10 +11,14 @@
             "id": "3092f91da5dfb3e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -207,12 +211,32 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "e3caf6c9facee503",
+  "active": "8e7d9b1a731ab8af",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "overall summary.md",
+    "kiara/adr/ADR-002-Project-Orchestrator.md",
+    "kiara/adr/ADR-001-Toolchain-Wrapper-Interface.md",
+    "kiara/Kiara_Core_Spec.md",
+    "kiara/Kiara_Master_Spec.md",
+    "kiara/Cargo.toml",
+    "kiara/adr",
+    "kiara",
+    "init.md",
+    "gemini-scribe/Agent-Sessions/2026-05-26 Overall Summary of Key Concepts.md",
+    "gemini-scribe/Agent-Sessions/2026-05-26 FPGA Software & Research Agent.md",
+    "gemini-scribe/Agent-Sessions/2026-05-26 Cleaning Up the Graph.md",
+    "Products/Kiara.md",
+    "Products",
+    "Philosophy.md",
+    "Kiara_Architect_Prompt.md",
+    "Final prompt.md",
+    "FPGA_Software_Deep_Dive.md",
+    "FPGA_Research_Agent_Prompt.md",
+    "AGENTS.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
-    "conflict-files-obsidian-git.md",
     "gemini-scribe/Agent-Sessions/Agent Session 2026-05-26.md",
     "gemini-scribe/Agent-Sessions/2026-05-23 Vault Initialization and Audit.md",
     "Fungi as Biological Networks.md",
@@ -222,28 +246,8 @@
     "Vault Initialization.md",
     "Research.md",
     "Brain/Research/Biological Networks/Fungi and Mycelial Network Systems.md",
-    "Brain/Research/Protocol Engineering/Saito Consensus and Operations.md",
-    "Programmable Routing Architecture.md",
-    "Brain/Research/Hardware Infrastructure/Soil Moisture Sensor Node.md",
-    "Brain/Research/Research Index.md",
-    "agentTakeaways.md",
-    "Cleanup.md",
-    "Governance/Vault Governance.md",
     "Governance",
-    "Gemini access key.md",
-    "gemini-scribe/Agent-Sessions/2026-05-26 Vault Cleanup and Initialization.md",
-    "Vault Docs/Cleanup.md",
-    "gemini-scribe/Agent-Sessions/2026-05-23 Vault Cleanup- Empty Note Audit.md",
-    "Governance/Agent Pep Talk.md",
-    "Brain/Research/Protocol Engineering/UPI-Saito Settlement Layer.md",
-    "Brain/Research/Protocol Engineering/Protocol Operations.md",
-    "Brain/Research/Protocol Engineering/Protocol Index.md",
     "Vault Docs",
-    "Brain",
-    "tempTrash",
-    "Edit Explanations",
-    "Vault Init",
-    "Brain/Research/Hardware Infrastructure/Sensors",
-    "Brain/Research/Protocol Engineering/Consensus Mechanisms"
+    "Brain"
   ]
 }

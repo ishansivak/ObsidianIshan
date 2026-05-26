@@ -36,9 +36,33 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "c5812f8976c69e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Final prompt"
+            }
+          },
+          {
+            "id": "0fedf6202e19fb70",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +153,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -191,10 +214,29 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "062a4859cdee9462",
+  "active": "0fedf6202e19fb70",
   "lastOpenFiles": [
+    "kiara/Kiara_Core_Spec.md",
+    "Final prompt.md",
+    "kiara/Kiara_Master_Spec.md",
+    "kiara/adr/ADR-002-Project-Orchestrator.md",
+    "kiara/adr/ADR-001-Toolchain-Wrapper-Interface.md",
+    "kiara/adr",
+    "Kiara_Architect_Prompt.md",
+    "kiara/Cargo.toml",
+    "kiara",
+    "overall summary.md",
+    "AGENTS.md",
+    "init.md",
+    "Philosophy.md",
+    "Products/Kiara.md",
+    "Products",
+    "FPGA_Research_Agent_Prompt.md",
+    "FPGA_Software_Deep_Dive.md",
+    "gemini-scribe/Agent-Sessions/2026-05-26 FPGA Software & Research Agent.md",
+    "gemini-scribe/Agent-Sessions/2026-05-26 Overall Summary of Key Concepts.md",
     "Programmable Routing Architecture.md",
-    "gemini-scribe/Agent-Sessions/Agent Session 2026-05-26.md",
+    "gemini-scribe/Agent-Sessions/2026-05-26 Cleaning Up the Graph.md",
     "Brain/Research/Biological Networks/Biological Index.md",
     "Brain/Research/Hardware Infrastructure/Soil Moisture Sensor Node.md",
     "Fungi as Biological Networks.md",
@@ -205,29 +247,10 @@
     "tempTrash",
     "Documentation.md",
     "Infrastructure.md",
-    "Agent Pep Talk.md",
-    "Agri-Tech Mesh Network.md",
-    "gemini-scribe/Agent-Sessions/2026-05-23 Vault Cleanup- Empty Note Audit.md",
-    "03_Applications.md",
-    "LLM market place system prompt.md",
     "agent notes",
-    "agent-optimization-protocol.md",
-    "gemini-scribe/Prompts/example-expert.md",
-    "gemini-scribe/Agent-Sessions/2026-05-20 Gemini Scribe Operational Priorities.md",
-    "Protocol Operations.md",
-    "Mycelial Network Systems.md",
-    "Archive/Agri-Tech Mesh Network.md",
-    "Archive/LLM Open Marketplace.md",
-    "Archive/Bounty-Based Torrent Client.md",
-    "Archive/Legacy Projects.md",
-    "System Architecture.md",
     "Archive",
     "Research",
     "Reflections",
-    "Documentation",
-    "Design Documents/UPI-Saito Settlement Layer",
-    "Design Documents",
-    "05_Architecture_and_Strategy",
-    "04_System_Management"
+    "Documentation"
   ]
 }
