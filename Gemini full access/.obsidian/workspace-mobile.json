@@ -55,14 +55,10 @@
             "id": "0fedf6202e19fb70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kiara/Kiara_Core_Spec.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kiara_Core_Spec"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -220,8 +216,8 @@
   },
   "active": "0fedf6202e19fb70",
   "lastOpenFiles": [
-    "Final prompt.md",
     "kiara/Kiara_Core_Spec.md",
+    "Final prompt.md",
     "kiara/Kiara_Master_Spec.md",
     "kiara/adr/ADR-002-Project-Orchestrator.md",
     "kiara/adr/ADR-001-Toolchain-Wrapper-Interface.md",
