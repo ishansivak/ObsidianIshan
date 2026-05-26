@@ -23,7 +23,7 @@ accessed_files:
   - "[[Kiara]]"
   - "[[FPGA_Research_Agent_Prompt]]"
   - "[[FPGA_Software_Deep_Dive]]"
-  - "[[kiara]]"
+  - "[[Kiara]]"
   - "[[Cargo.toml]]"
   - "[[Kiara_Architect_Prompt]]"
   - "[[ADR-001-Toolchain-Wrapper-Interface]]"

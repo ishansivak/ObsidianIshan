@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed961fbd58f3711e",
+        "id": "83fc4faa5a568225",
         "type": "tabs",
         "children": [
           {
-            "id": "6d700548eb774494",
+            "id": "6b0a6625f18fd9c2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -207,8 +207,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "8e7d9b1a731ab8af",
+  "active": "e3caf6c9facee503",
   "lastOpenFiles": [
+    "gemini-scribe/AGENTS.md",
+    "Kiara.md",
+    "archive",
     "conflict-files-obsidian-git.md",
     "overall summary.md",
     "kiara/adr/ADR-002-Project-Orchestrator.md",
@@ -222,28 +225,25 @@
     "gemini-scribe/Agent-Sessions/2026-05-26 Overall Summary of Key Concepts.md",
     "gemini-scribe/Agent-Sessions/2026-05-26 FPGA Software & Research Agent.md",
     "gemini-scribe/Agent-Sessions/2026-05-26 Cleaning Up the Graph.md",
-    "Products/Kiara.md",
+    "Kiara.md",
     "Products",
     "Philosophy.md",
     "Kiara_Architect_Prompt.md",
-    "Final prompt.md",
+    "archive/Final prompt.md",
     "FPGA_Software_Deep_Dive.md",
     "FPGA_Research_Agent_Prompt.md",
     "AGENTS.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions/Agent Session 2026-05-26.md",
+    "gemini-scribe/Agent-Sessions/2026-05-27 Kiara Vault Cleanup.md",
     "gemini-scribe/Agent-Sessions/2026-05-23 Vault Initialization and Audit.md",
     "Fungi as Biological Networks.md",
     "gemini-scribe/Prompts/example-expert.md",
     "README.md",
     "StartingPoint.md",
     "Vault Initialization.md",
-    "Research.md",
-    "Brain/Research/Biological Networks/Fungi and Mycelial Network Systems.md",
     "Governance",
-    "Vault Docs",
-    "Brain"
+    "Vault Docs"
   ]
 }
