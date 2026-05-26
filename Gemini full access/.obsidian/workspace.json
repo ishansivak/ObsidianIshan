@@ -11,10 +11,14 @@
             "id": "0559d3f3da604864",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
