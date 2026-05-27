@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Athena/Athena.md",
+                "file": "archive/Final prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Athena"
+              "title": "Final prompt"
             }
           }
         ]
@@ -213,16 +213,19 @@
   },
   "active": "e3caf6c9facee503",
   "lastOpenFiles": [
+    "gemini-scribe/Agent-Sessions/Agent Session 2026-05-28.md",
+    "init.md",
+    "bookmark.md",
+    "AGENTS.md",
+    "Athena/Athena.md",
     "tempAthena.md",
     "tempKiara.md",
-    "bookmark.md",
     "Kiara_Projects",
     "Kiara_Projects/Kiara.md",
     "Soma Studios",
     "Athena",
     "Soma Studios/Portfolio.md",
     "Kiara Product Studio",
-    "Athena/Athena.md",
     "blockexplorer.md",
     "gemini-scribe/AGENTS.md",
     "Kiara/Kiara.md",
@@ -236,7 +239,6 @@
     "kiara/Cargo.toml",
     "kiara/adr",
     "kiara",
-    "init.md",
     "gemini-scribe/Agent-Sessions/2026-05-26 Overall Summary of Key Concepts.md",
     "gemini-scribe/Agent-Sessions/2026-05-26 FPGA Software & Research Agent.md",
     "gemini-scribe/Agent-Sessions/2026-05-26 Cleaning Up the Graph.md",
@@ -246,8 +248,6 @@
     "Kiara_Projects/Kiara_Architect_Prompt.md",
     "archive/Final prompt.md",
     "Kiara_Projects/FPGA_Software_Deep_Dive.md",
-    "Kiara_Projects/FPGA_Research_Agent_Prompt.md",
-    "AGENTS.md",
     "gemini-scribe/Scheduled-Tasks/Runs"
   ]
 }
