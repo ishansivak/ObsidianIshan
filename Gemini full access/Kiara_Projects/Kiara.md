@@ -1,5 +1,5 @@
 # Kiara: Philosophy of Open-Source EDA
-## Progress: 10%
+## Progress: 15%
 
 1. **Philosophy**: Hardware-as-Code, Agent-Centricity, Open-Source Sovereignty.
 2. **Coding**: Write modular, type-safe Rust; prioritize formal verification and machine-readable outputs.

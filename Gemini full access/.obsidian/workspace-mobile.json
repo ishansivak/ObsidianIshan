@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,8 +214,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "0fedf6202e19fb70",
+  "active": "062a4859cdee9462",
   "lastOpenFiles": [
+    "Soma Studios/Master_Prompt.md",
     "kiara/Kiara_Core_Spec.md",
     "Final prompt.md",
     "kiara/Kiara_Master_Spec.md",
@@ -246,7 +247,6 @@
     "Brain/Research/Biological Networks/Fungi and Mycelial Network Systems.md",
     "tempTrash",
     "Documentation.md",
-    "Infrastructure.md",
     "agent notes",
     "Archive",
     "Research",
