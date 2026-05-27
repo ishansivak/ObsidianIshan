@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+Thumbs.db
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/workspace-mobile.json
+
+# Build artifacts
+target/
+dist/
+*.wasm
+*.js.map
+
+# Logs
+*.log
+debug.log

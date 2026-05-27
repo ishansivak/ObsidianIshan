@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,8 +214,31 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "0fedf6202e19fb70",
+  "active": "062a4859cdee9462",
   "lastOpenFiles": [
+    "kiara/Orchestrator_Tests.md",
+    "Kiara/Orchestrator_Tests.md",
+    "README.md",
+    "notebookLM.md",
+    "kiara/Orchestrator.md",
+    "Kiara/Orchestrator.md",
+    "kiara/Toolchain_Wrapper.md",
+    "Kiara/adr/ADR-002-Project-Orchestrator.md",
+    "Kiara/adr/ADR-001-Toolchain-Wrapper-Interface.md",
+    "Kiara/Toolchain_Wrapper.md",
+    "Kiara/Kiara_Core_Spec.md",
+    "Kiara/Kiara_Master_Spec.md",
+    "Kiara/adr",
+    "Kiara/Cargo.toml",
+    "Kiara",
+    "Athena/State_Management.md",
+    "Athena/Dashboard_Layout.md",
+    "Athena/Header.md",
+    "Athena/Sidebar.md",
+    "Athena/Component_Template.md",
+    "Athena/Theme_Variables.md",
+    "gemini-scribe/Agent-Sessions/2026-05-27 Vault Cleanup Audit.md",
+    "Soma Studios/Master_Prompt.md",
     "kiara/Kiara_Core_Spec.md",
     "Final prompt.md",
     "kiara/Kiara_Master_Spec.md",
@@ -225,32 +248,9 @@
     "Kiara_Architect_Prompt.md",
     "kiara/Cargo.toml",
     "kiara",
-    "overall summary.md",
-    "AGENTS.md",
-    "init.md",
-    "Philosophy.md",
-    "Products/Kiara.md",
     "Products",
-    "FPGA_Research_Agent_Prompt.md",
-    "FPGA_Software_Deep_Dive.md",
-    "gemini-scribe/Agent-Sessions/2026-05-26 FPGA Software & Research Agent.md",
-    "gemini-scribe/Agent-Sessions/2026-05-26 Overall Summary of Key Concepts.md",
-    "Programmable Routing Architecture.md",
-    "gemini-scribe/Agent-Sessions/2026-05-26 Cleaning Up the Graph.md",
-    "Brain/Research/Biological Networks/Biological Index.md",
-    "Brain/Research/Hardware Infrastructure/Soil Moisture Sensor Node.md",
-    "Fungi as Biological Networks.md",
-    "gemini-scribe/Agent-Sessions/2026-05-23 Vault Initialization and Audit.md",
-    "Brain/Research/Protocol Engineering/Saito Consensus and Operations.md",
-    "Edit Explanations/Maintenance Run Report 2026-05-23.md",
-    "Brain/Research/Biological Networks/Fungi and Mycelial Network Systems.md",
     "tempTrash",
-    "Documentation.md",
-    "Infrastructure.md",
     "agent notes",
-    "Archive",
-    "Research",
-    "Reflections",
-    "Documentation"
+    "Archive"
   ]
 }

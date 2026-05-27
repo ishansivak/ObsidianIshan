@@ -15,3 +15,17 @@ This philosophy will guide the creation, organization, and refinement of all con
 **Gemma 4 Integration Perspective:**
 
 "It should essentially see the design software as a 'tool' in its multimodal tool belt."
+
+## Context Files
+The following files have been added to this conversation as context:
+- [[Athena/Theme_Variables.md|Theme_Variables]]
+- [[Athena/Component_Template.md|Component_Template]]
+- [[Athena/Sidebar.md|Sidebar]]
+- [[Athena/Header.md|Header]]
+- [[Athena/Dashboard_Layout.md|Dashboard_Layout]]
+- [[Athena/State_Management.md|State_Management]]
+- [[Kiara/Toolchain_Wrapper.md|Toolchain_Wrapper]]
+- [[Kiara/Orchestrator.md|Orchestrator]]
+
+When referring to these files in tool calls, use the FULL PATH (the part before | in the wikilinks above).
+The content of these files is included in the context below.

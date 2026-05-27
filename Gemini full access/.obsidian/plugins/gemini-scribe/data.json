@@ -2,7 +2,7 @@
   "provider": "gemini",
   "ollamaBaseUrl": "http://localhost:11434",
   "customBaseUrl": "",
-  "apiKeySecretName": "seanishans",
+  "apiKeySecretName": "lol",
   "chatModelName": "gemini-3.5-flash",
   "summaryModelName": "gemini-3.5-flash",
   "completionsModelName": "gemini-3.5-flash",
