@@ -8,7 +8,7 @@ Our approach is defined by **[[Philosophy]]**, emphasizing:
 - **Simplicity & Integration**: Leveraging modern software practices (CI/CD, CLI-first tools) to bridge the gap between high-level AI design and low-level hardware implementation.
 
 ## 2. Project Kiara: Rust-based FPGA Design
-**[[Kiara]]** is our primary architectural undertaking:
+**[[Kiara/Kiara]]** is our primary architectural undertaking:
 - **Objective**: Build an open-source, Rust-native FPGA design suite.
 - **Goal**: Provide a safe, efficient, and modular alternative to proprietary EDA suites, optimized for developer experience and AI-driven automation.
 - **Key Tenet**: Treating the toolchain not as a monolith, but as a collection of specialized, interoperable components that Gemma 4 can invoke programmatically.

@@ -12,7 +12,7 @@ require_confirmation:
 context_files:
   - "[[FPGA_Software_Deep_Dive]]"
   - "[[FPGA_Research_Agent_Prompt]]"
-  - "[[Kiara]]"
+  - "[[Kiara/Kiara]]"
   - "[[Philosophy]]"
   - "[[init]]"
 accessed_files:
@@ -22,9 +22,9 @@ accessed_files:
   - "[[Research]]"
   - "[[Research Index]]"
   - "[[StartingPoint]]"
-  - "[[overall summary]]"
+  - "[[Summary]]"
   - "[[Products]]"
-  - "[[Kiara]]"
+  - "[[Kiara/Kiara]]"
   - "[[Philosophy]]"
   - "[[agentTakeaways]]"
   - "[[README]]"
