@@ -1,4 +1,4 @@
-# Kiara Project Master Specification
+# Kiara Specification
 
 ## 1. Overview
 Kiara is a Rust-native, AI-invocable FPGA design suite built to abstract and orchestrate FOSS EDA tools (Yosys, nextpnr, openFPGALoader).
@@ -34,13 +34,21 @@ Returned by `ToolchainCommand` after task completion.
 }
 ```
 
-## 4. Phase 1 Roadmap: CLI & Wrapper Structure
-1.  **CLI Interface**: Define `clap` structure for command routing (e.g., `kiara synth`, `kiara pnr`, `kiara load`).
-2.  **Trait Definition**: Implement `ToolchainCommand` trait.
-3.  **Wrapper Implementation**: Create specific wrappers for `yosys`, `nextpnr`, and `openFPGALoader` implementing the trait.
-4.  **Orchestrator Stub**: Implement basic dependency tracking (DAG) to ensure synthesis completes before P&R.
+## 4. Orchestrator Implementation
+The `ProjectOrchestrator` manages the dependency graph (DAG) between `ToolchainCommand` implementations. Pipeline configurations must be serializable (JSON/YAML) to enable AI-driven workflow generation.
 
-## 5. Implementation Constraints
+## 5. Phase 1 Roadmap
+1. **CLI Interface**: Define `clap` structure for command routing (e.g., `kiara synth`, `kiara pnr`, `kiara load`).
+2. **Trait Definition**: Implement `ToolchainCommand` trait.
+    ```rust
+    trait ToolchainCommand {
+        fn execute(&self, config: CommandConfig) -> Result<ExecutionResult>;
+    }
+    ```
+3. **Wrapper Implementation**: Create specific wrappers for `yosys`, `nextpnr`, and `openFPGALoader` implementing the trait.
+4. **Orchestrator Stub**: Implement basic dependency tracking (DAG) to ensure synthesis completes before P&R.
+
+## 6. Implementation Constraints
 - **NO IMPLEMENTATION CODE**: This specification defines interfaces and contracts.
 - **Language**: Rust (Edition 2021).
 - **Dependencies**: `clap`, `serde`, `serde_json`, `anyhow`.

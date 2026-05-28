@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive/Final prompt.md",
+                "file": "CTOtasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Final prompt"
+              "title": "CTOtasks"
             }
           }
         ]
@@ -211,8 +211,14 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "8e7d9b1a731ab8af",
+  "active": "e3caf6c9facee503",
   "lastOpenFiles": [
+    "SaitoDetours.md",
+    "CTO.md",
+    "archive/Final prompt.md",
+    "kiara/Kiara_Specification.md",
+    "CTOtasks.md",
+    "gemini-scribe/Agent-Sessions/2026-05-28 CTO Vault Restructuring Plan.md",
     "notebookLM.md",
     "kiara/Toolchain_Wrapper.md",
     "kiara/Orchestrator_Tests.md",
@@ -226,7 +232,7 @@
     "Athena/Header.md",
     "Athena/Dashboard_Layout.md",
     "Athena/Component_Template.md",
-    "gemini-scribe/Agent-Sessions/Agent Session 2026-05-28.md",
+    "gemini-scribe/Agent-Sessions/2026-05-28 Kiara Project Initialization.md",
     "init.md",
     "bookmark.md",
     "AGENTS.md",
@@ -234,16 +240,10 @@
     "tempAthena.md",
     "tempKiara.md",
     "Kiara_Projects",
-    "Kiara_Projects/Kiara.md",
     "Soma Studios",
     "Athena",
-    "Soma Studios/Portfolio.md",
     "Kiara Product Studio",
-    "blockexplorer.md",
-    "gemini-scribe/AGENTS.md",
-    "Kiara/Kiara.md",
     "archive",
-    "conflict-files-obsidian-git.md",
     "kiara/Cargo.toml",
     "kiara/adr",
     "kiara",
