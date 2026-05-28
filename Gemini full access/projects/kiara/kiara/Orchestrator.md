@@ -4,7 +4,7 @@
 The Orchestrator ties together the atomic wrappers (`YosysWrapper`, `NextpnrWrapper`, `BitstreamGenerator`) into a unified FPGA synthesis and implementation pipeline.
 
 ## Testing
-See [[Kiara/Orchestrator_Tests]] for the unit test suite.
+See [[Orchestrator_Tests]] for the unit test suite.
 
 ## Implementation
 ```rust

@@ -18,14 +18,14 @@ This philosophy will guide the creation, organization, and refinement of all con
 
 ## Context Files
 The following files have been added to this conversation as context:
-- [[Athena/Theme_Variables.md|Theme_Variables]]
-- [[Athena/Component_Template.md|Component_Template]]
-- [[Athena/Sidebar.md|Sidebar]]
-- [[Athena/Header.md|Header]]
-- [[Athena/Dashboard_Layout.md|Dashboard_Layout]]
-- [[Athena/State_Management.md|State_Management]]
-- [[Kiara/Toolchain_Wrapper.md|Toolchain_Wrapper]]
-- [[Kiara/Orchestrator.md|Orchestrator]]
+- [[Theme_Variables|Theme_Variables]]
+- [[Component_Template|Component_Template]]
+- [[Sidebar|Sidebar]]
+- [[Header|Header]]
+- [[Dashboard_Layout|Dashboard_Layout]]
+- [[State_Management|State_Management]]
+- [[Toolchain_Wrapper|Toolchain_Wrapper]]
+- [[Orchestrator|Orchestrator]]
 
 When referring to these files in tool calls, use the FULL PATH (the part before | in the wikilinks above).
 The content of these files is included in the context below.

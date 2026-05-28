@@ -5,8 +5,8 @@
 2. **Coding**: Implement Leptos 0.5 components with strict separation of concerns; use Tailwind CSS for glassmorphic styling.
 3. **Learning**: Study Leptos reactivity lifecycle; research Saito's UTXO serialization model.
 4. **Forward**: Implement UI components using the glassmorphic theme variables.
-   - See: [[Athena/Theme_Variables]]
-   - See: [[Athena/Component_Template]]
-   - Implemented: [[Athena/Sidebar]]
-   - Implemented: [[Athena/Header]]
-   - Implemented: [[Athena/Dashboard_Layout]]
+   - See: [[Theme_Variables]]
+   - See: [[Component_Template]]
+   - Implemented: [[Sidebar]]
+   - Implemented: [[Header]]
+   - Implemented: [[Dashboard_Layout]]

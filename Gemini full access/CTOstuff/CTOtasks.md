@@ -1,0 +1,11 @@
+Unfinished tasks:
+- [x] Merge Kiara specifications into projects/kiara/Kiara_Specification.md
+- [x] Consolidate meta-trackers (init.md, bookmark.md) into AGENTS.md
+- [x] Create SaitoDetours.md
+- [x] Restructure directory hierarchy (Phase 3)
+- [ ] Prepare projects/new-app directory (Phase 4)
+- [ ] Remove empty notes
+- [ ] Create blackbox/ folder for concise context notes
+- [x] Create CTOstuff/ subdirectory
+- [ ] Draft Bhejo vision document
+- [ ] Remove all technical bloat and debt

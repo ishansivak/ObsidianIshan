@@ -1119,13 +1119,13 @@ metadata:
 > To prompt effectively, follow these steps:
 > 
 > 1.  Start by defining a clear, atomic goal for the specific component you are building.
-> 2.  Reference the relevant context file (e.g., "Using [[Athena/Sidebar]], create a new menu item...").
+> 2.  Reference the relevant context file (e.g., "Using [[Sidebar]], create a new menu item...").
 > 3.  Specify the desired output format, such as code, structure, or logic.
 > 4.  Maintain the project's philosophy: keep it simple, atomic, and human-centric.
-> 5.  If building on existing code, explicitly state the dependency (e.g., "Integrate this with the [[Kiara/Orchestrator]] pipeline").
+> 5.  If building on existing code, explicitly state the dependency (e.g., "Integrate this with the [[Orchestrator]] pipeline").
 > 6.  Keep prompts focused on one task at a time to ensure high-quality, modular results.
-> 7.  If you need a new UI component, follow the structure in [[Athena/Component_Template]].
-> 8.  If you need a new tool wrapper, follow the pattern in [[Kiara/Toolchain_Wrapper]].
+> 7.  If you need a new UI component, follow the structure in [[Component_Template]].
+> 8.  If you need a new tool wrapper, follow the pattern in [[Toolchain_Wrapper]].
 > 9.  Always ask for the `## Prompt Documentation` section to be added to the bottom of the file.
 > 10. This ensures your vault remains organized and your prompt history is preserved.
 
