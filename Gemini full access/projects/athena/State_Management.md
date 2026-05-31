@@ -17,7 +17,3 @@ const useDashboardStore = create((set) => ({
   setActiveView: (view) => set({ activeView: view }),
 }));
 ```
-
-## Prompt Documentation
-- **Goal**: Define state management strategy.
-- **Prompt**: Define a state management strategy for the dashboard using Zustand.

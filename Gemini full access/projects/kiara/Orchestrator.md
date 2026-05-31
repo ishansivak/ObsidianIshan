@@ -31,7 +31,3 @@ impl KiaraOrchestrator {
     }
 }
 ```
-
-## Prompt Documentation
-- **Goal**: Create CLI orchestrator.
-- **Prompt**: Create a CLI orchestrator to tie together the atomic toolchain wrappers into a unified pipeline.

@@ -2,7 +2,7 @@
   "provider": "gemini",
   "ollamaBaseUrl": "http://localhost:11434",
   "customBaseUrl": "",
-  "apiKeySecretName": "obsidianlaptop",
+  "apiKeySecretName": "go",
   "chatModelName": "gemini-3.5-flash",
   "summaryModelName": "gemini-3.5-flash",
   "completionsModelName": "gemini-3.5-flash",
@@ -142,6 +142,6 @@
         "maxTemperature": 2
       }
     ],
-    "timestamp": 1779950810758
+    "timestamp": 1780258336053
   }
 }

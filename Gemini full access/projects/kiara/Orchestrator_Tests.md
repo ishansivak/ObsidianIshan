@@ -1,7 +1,7 @@
 # Kiara: Orchestrator Tests
 
 ## Overview
-Unit tests for the `[[Kiara/Orchestrator]]` to validate the synthesis and implementation pipeline.
+Unit tests for the `[[Orchestrator]]` to validate the synthesis and implementation pipeline.
 
 ## Implementation
 ```rust
@@ -31,7 +31,3 @@ mod tests {
     }
 }
 ```
-
-## Prompt Documentation
-- **Goal**: Implement a test suite for the Kiara Orchestrator.
-- **Prompt**: Create a unit test suite for the Kiara Orchestrator to validate the pipeline structure.

@@ -81,7 +81,3 @@ impl BitstreamGenerator {
     }
 }
 ```
-
-## Prompt Documentation
-- **Goal**: Create atomic Rust wrapper for FPGA toolchain.
-- **Prompt**: Create an atomic Rust wrapper for FPGA toolchain commands, including examples for Yosys, Nextpnr, and BitstreamGenerator.

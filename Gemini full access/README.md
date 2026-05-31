@@ -1,40 +1,65 @@
-# Kiara & Athena: FPGA Design Suite
-**Note**: This project and its documentation are managed and maintained by the AI/notebookLM context.
+# Erebor Studios: Open-Source EDA & Sovereign Applications
+**Note**: This project and its documentation are managed with uncompromising focus and precision.
 
-Kiara is a Rust-based FPGA design suite focused on atomic, modular toolchain management. Athena is the glassmorphic UI dashboard built to orchestrate and visualize this toolchain.
+Erebor Studios is dedicated to building foundational, high-performance tools for decentralized compute, hardware-as-code engineering, and sovereign consumer applications.
 
-## Philosophy
-- **Focused Excellence**: Do one thing well.
-- **Simplicity**: Avoid unnecessary complexity.
-- **Human-Centricity**: Tools should be intuitive and easy to interact with.
+---
 
-## Project Pillars
+## The Erebor Philosophy
+*   **Focused Excellence**: Do a few things, but make them insanely great.
+*   **Simplicity**: Strip away the noise and complexity until only what is pure and functional remains.
+*   **Human-Centricity**: Technology is an extension of the human mind. Tools must be beautiful, intuitive, and empowering.
 
-### 1. Athena (UI/Frontend)
-Athena provides a glassmorphic dashboard for interacting with the Kiara toolchain.
-- **Design System**: Defined in [[Theme_Variables]].
-- **Component Architecture**: All UI elements must follow the structure in [[Component_Template]].
-- **State Management**: Handled centrally (e.g., Zustand) as defined in [[State_Management]].
-- **Core Components**:
-    - [[Sidebar]]
-    - [[Header]]
-    - [[Dashboard_Layout]]
+---
 
-### 2. Kiara (Backend/FPGA Toolchain)
-Kiara manages FPGA synthesis and implementation via atomic Rust wrappers.
-- **Atomic Wrappers**: Each tool (Yosys, Nextpnr, etc.) is wrapped using the pattern in [[Toolchain_Wrapper]].
-- **Orchestration**: The pipeline is managed by the [[Orchestrator]], which ties the atomic wrappers together.
-- **Testing**: Pipeline validation is handled by [[Orchestrator_Tests]].
+## The Whiteboard Grid: Our Four Pillars
 
-## Workflow & Prompting Guide
-To maintain the integrity and organization of this vault, follow these rules when prompting for new features or components:
+```
+                  ┌───────────────────────┬───────────────────────┐
+                  │       PRO ENGINE      │    CONSUMER PRODUCT   │
+ ┌────────────────┼───────────────────────┼───────────────────────┤
+ │                │       [[Kiara]]       │       [[Bhejo]]       │
+ │   SOFTWARE     │  Rust FPGA Synthesis  │  File-Sharing & UPI   │
+ │                │  & Open-Source EDA    │  Decentralized App    │
+ ├────────────────┼───────────────────────┼───────────────────────┤
+ │                │      [[Athena]]       │     [[blackbox]]      │
+ │   INTERFACE    │  Glassmorphic UI &    │  Saito, Mycelial, &   │
+ │   & CORE IP    │   Dashboard Layout    │  Agri-Tech Research   │
+ └────────────────┴───────────────────────┴───────────────────────┘
+```
 
-1.  **Be Atomic**: Focus on one component or task at a time.
-2.  **Reference Context**: Always explicitly reference the relevant context file (e.g., "Using [[Sidebar]], create...").
-3.  **Follow Patterns**: Use existing files as templates (e.g., `Component_Template` for UI, `Toolchain_Wrapper` for backend).
-4.  **Document Everything**: Every file must end with a `## Prompt Documentation` section.
-5.  **Keep it Simple**: If a prompt is complex, break it down into smaller, atomic steps.
+### 1. [[Kiara]] (The Pro Engine)
+A Rust-native, AI-invocable FPGA design suite built to orchestrate open-source EDA tools (Yosys, nextpnr, openFPGALoader).
+*   **Atomic Wrappers**: Each tool is wrapped using the pattern in [[Toolchain_Wrapper]].
+*   **Orchestration**: Managed dynamically by the [[Orchestrator]], which compiles the project DAG.
+*   **Testing**: Validated via the unit test suite in [[Orchestrator_Tests]].
 
-## Prompt Documentation
-- **Goal**: Create a comprehensive project README.
-- **Prompt**: Create a README.md that imbibes all the knowledge from the project context files, including philosophy, pillars, and workflow.
+### 2. [[Athena]] (The Pro Interface)
+A stunning, glassmorphic UI dashboard built with Leptos 0.5 and Tailwind CSS to orchestrate and visualize the Kiara toolchain.
+*   **Design System**: Defined in [[Theme_Variables]].
+*   **Component Template**: All UI containers follow [[Component_Template]].
+*   **State Management**: Handled centrally in [[State_Management]].
+*   **Core Components**: [[Sidebar]], [[Header]], and [[Dashboard_Layout]].
+
+### 3. [[Bhejo]] (The Consumer Application)
+A revolutionary, decentralized peer-to-peer file-sharing application running on Saito and India's UPI payment rail, enabling secure, atomic, and instant content monetization and distribution.
+
+### 4. [[blackbox/blackbox|blackbox]] (The Core IP / R&D)
+Our private, high-value conceptual repository:
+*   **[[Saito_Consensus|Saito Consensus]]**: Routing work mechanics, the burn fee, and the Golden Ticket lottery.
+*   **[[UPI_Saito_Settlement|UPI-Saito Settlement]]**: Real-time atomic clearing bridging India's UPI with Saito.
+*   **[[Mycelial_Network_Routing|Mycelial Network Routing]]**: Biological decentralized networks and fungal computing.
+*   **[[AgriTech_Mesh_Network|Agri-Tech Mesh Network]]**: Off-grid LoRa mesh networks and Edge AI sensor nodes.
+
+---
+
+## Operational Protocol & Hygiene
+To maintain the integrity and beauty of this vault, follow these rules:
+1.  **Keep it Flat**: No redundant nesting or double-nested directories. Clean paths are mandatory.
+2.  **No Redundancy**: Maintain a single source of truth. Delete duplicate summaries or notes immediately.
+3.  **Be Atomic**: Focus on one component or task at a time. Refer to existing design patterns.
+4.  **Absolute Precision**: Avoid LLM-generation junk, redundant placeholders, or "Prompt Documentation" blocks. Keep files clean, technical, and beautifully structured.
+
+## 6. ANTI-HALLUCINATION & MACRO PROGRESS DIRECTIVE (MANDATORY)
+1. **NO FAKE WORK**: The AI MUST NEVER hallucinate file modifications, reads, or deletions. You must verifiably execute tool calls for every single action you claim to perform.
+2. **MACRO PROGRESS BAR**: The mandatory progress bar at the start of responses MUST reflect the **MACRO** progress of the actual engineering project (e.g., Kiara is at ~15%, Bhejo is ~10%). It MUST NEVER reflect the mere completion of the user's immediate chat prompt. NEVER output a 100% progress bar unless a massive, multi-week engineering milestone is genuinely shipped and verifiable in the codebase. We are nowhere near 100% done.

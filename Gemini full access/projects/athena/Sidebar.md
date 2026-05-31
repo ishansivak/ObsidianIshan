@@ -1,5 +1,6 @@
 # Athena: Sidebar Component
 
+```html
 <div class="bg-glass border-glass shadow-glass p-4 rounded-lg">
   <!-- Sidebar Content -->
   <nav>
@@ -10,7 +11,4 @@
     </ul>
   </nav>
 </div>
-
-## Prompt Documentation
-- **Goal**: Create a glassmorphic sidebar component.
-- **Prompt**: Create a glassmorphic sidebar component using the component template.
+```

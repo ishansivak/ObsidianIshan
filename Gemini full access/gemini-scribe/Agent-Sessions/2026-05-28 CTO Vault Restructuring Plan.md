@@ -31,8 +31,8 @@ accessed_files:
   - "[[CTOtasks]]"
   - "[[Kiara_Specification]]"
   - "[[SaitoDetours]]"
-  - "[[kiara]]"
-  - "[[athena]]"
+  - "[[Kiara]]"
+  - "[[Athena]]"
   - "[[new-app]]"
   - "[[CTOstuff]]"
   - "[[Kiara_Specification]]"
@@ -41,14 +41,14 @@ accessed_files:
   - "[[CTOtasks]]"
   - "[[SaitoDetours]]"
   - "[[Kiara_Projects]]"
-  - "[[kiara]]"
-  - "[[Bhejo_Vision]]"
+  - "[[Kiara]]"
+  - "[[Bhejo]]"
 context_files:
   - "[[CTO]]"
   - "[[CTOtasks]]"
   - "[[Kiara_Specification]]"
   - "[[SaitoDetours]]"
-  - "[[Bhejo_Vision]]"
+  - "[[Bhejo]]"
 metadata:
   autoLabeled: true
 ---
