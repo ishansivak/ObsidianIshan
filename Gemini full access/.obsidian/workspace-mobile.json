@@ -214,8 +214,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "062a4859cdee9462",
+  "active": "0fedf6202e19fb70",
   "lastOpenFiles": [
+    "New GODOT.md",
     "kiara/Orchestrator_Tests.md",
     "Kiara/Orchestrator_Tests.md",
     "README.md",
@@ -245,7 +246,6 @@
     "kiara/adr/ADR-002-Project-Orchestrator.md",
     "kiara/adr/ADR-001-Toolchain-Wrapper-Interface.md",
     "kiara/adr",
-    "Kiara_Architect_Prompt.md",
     "kiara/Cargo.toml",
     "kiara",
     "Products",
