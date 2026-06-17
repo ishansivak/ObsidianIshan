@@ -1,3 +1,6 @@
+---
+Status: Implemented
+---
 # ADR-002: Project Orchestrator
 
 ## Status

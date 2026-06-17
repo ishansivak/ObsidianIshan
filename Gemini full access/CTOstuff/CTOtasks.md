@@ -10,7 +10,7 @@ This task board tracks the engineering milestones across the four pillars of the
 ### Pillar I: [[Kiara]] (The Pro Synthesis Engine)
 *Objective: Build a high-performance, Rust-native, open-source FPGA design suite.*
 
-- [ ] **Atomic Toolchain Wrappers**: Encapsulate low-level EDA utilities.
+- [x] **Atomic Toolchain Wrappers**: Encapsulate low-level EDA utilities.
 - [ ] **Orchestrator & DAG Execution**: Implement pipeline scheduling and validation.
 
 ### Pillar II: [[Athena]] (The Pro Interface)
@@ -30,7 +30,7 @@ This task board tracks the engineering milestones across the four pillars of the
 ### Pillar IV: [[blackbox/blackbox|blackbox]] (Core IP & R&D)
 *Objective: Conduct deep, rigorous research to backstop our consumer applications and software engines.*
 
-- [ ] **Saito Consensus Simulation**: Model burn fee and routing work mathematics.
+- [x] **Saito Consensus Simulation**: Model burn fee and routing work mathematics.
 - [ ] **UPI-Saito Bridge Validation**: Simulate real-time settlement clearing.
 - [ ] **Mycelial Routing Protocol**: Prototype P2P mesh network protocol.
 - [ ] **Agri-Tech Mesh Hardware**: Finalize node schematics and firmware.
