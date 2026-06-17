@@ -1,5 +1,6 @@
 use clap::{Parser, Subcommand};
 use serde::{Deserialize, Serialize};
+use std::fs;
 
 #[derive(Parser)]
 #[command(name = "kiara")]
@@ -37,21 +38,31 @@ struct CommandConfig {
     working_directory: String,
 }
 
-fn main() {
+fn load_config(path: &str) -> Result<CommandConfig, anyhow::Error> {
+    let content = fs::read_to_string(path)?;
+    let config: CommandConfig = serde_json::from_str(&content)?;
+    Ok(config)
+}
+
+fn main() -> anyhow::Result<()> {
     let cli = Cli::parse();
 
     match &cli.command {
         Commands::Synth { config } => {
-            println!("Running synthesis with config: {}", config);
-            // TODO: Map config to CommandConfig and execute
+            let cmd_config = load_config(config)?;
+            println!("Running synthesis with config: {:?}", cmd_config);
+            // TODO: Execute using ToolchainCommand
         }
         Commands::Pnr { config } => {
-            println!("Running P&R with config: {}", config);
-            // TODO: Map config to CommandConfig and execute
+            let cmd_config = load_config(config)?;
+            println!("Running P&R with config: {:?}", cmd_config);
+            // TODO: Execute using ToolchainCommand
         }
         Commands::Load { config } => {
-            println!("Running load with config: {}", config);
-            // TODO: Map config to CommandConfig and execute
+            let cmd_config = load_config(config)?;
+            println!("Running load with config: {:?}", cmd_config);
+            // TODO: Execute using ToolchainCommand
         }
     }
+    Ok(())
 }
