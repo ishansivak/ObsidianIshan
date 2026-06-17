@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/athena/Athena.md",
+                "file": "projects/athena/Theme_Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Athena"
+              "title": "Theme_Variables"
             }
           }
         ]
@@ -213,6 +213,21 @@
   },
   "active": "2036071b615717a9",
   "lastOpenFiles": [
+    "projects/athena/Athena.md",
+    "erebor-studios/Portfolio.md",
+    "projects/bhejo/Bhejo.md",
+    "erebor-studios/Philosophy.md",
+    "projects/kiara/Kiara_Specification.md",
+    "projects/kiara/Kiara.md",
+    "gemini-scribe/Agent-Sessions/2026-06-01 Meditation and Health Search.md",
+    "projects/bhejo/serialization_schema.md",
+    "projects/athena/tailwind.config.js",
+    "projects/kiara/src/main.rs",
+    "projects/kiara/src",
+    "gemini-scribe/Agent-Sessions/2026-06-16 Vault Review and Takeaways.md",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
     "archive/legacy_notes/Summary.md",
     "archive/legacy_notes/init.md",
     "archive/archived_prompts/Final_prompt.md",
@@ -223,31 +238,16 @@
     "archive/archived_prompts",
     "archive",
     "projects/bhejo",
-    "projects/kiara/Kiara.md",
     "README.md",
-    "gemini-scribe/Agent-Sessions/2026-06-01 Meditation and Health Search.md",
     "gemini-scribe/Agent-Sessions/2026-05-07 Agri-Tech Mesh Network Development.md",
     "gemini-scribe/Agent-Sessions/2026-05-29 Soma Blackbox Vault Restoration.md",
-    "erebor-studios/Portfolio.md",
-    "erebor-studios/Philosophy.md",
     "erebor-studios/Master_Prompt.md",
     "CTOstuff/SaitoDetours.md",
     "CTOstuff/CTOtasks.md",
     "CTOstuff/CTO.md",
     "blackbox/blackbox.md",
-    "erebor-studios",
-    "projects/kiara/adr",
     "blackbox/AgriTech_Mesh_Network.md",
     "blackbox/Mycelial_Network_Routing.md",
-    "blackbox/UPI_Saito_Settlement.md",
-    "blackbox/Saito_Consensus.md",
-    "blackbox",
-    "projects/bhejo/Bhejo.md",
-    "CTOstuff",
-    "projects/new-app",
-    "projects/athena",
-    "archive/Final prompt.md",
-    "projects/kiara/Kiara_Specification.md",
-    "gemini-scribe/Agent-Sessions/2026-05-28 CTO Vault Restructuring Plan.md"
+    "blackbox/UPI_Saito_Settlement.md"
   ]
 }
